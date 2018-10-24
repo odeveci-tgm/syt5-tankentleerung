@@ -125,13 +125,17 @@ Die Schaltung sollte folgendermaßen ausschauen:
 <div align="center">
 <img src="images/fktbstn.PNG" align="center"  />
 </div>  
+
 Den erstellten Baustein kann man nun weiter verwenden in anderen Programmen, indem man bei Werkzeuge unter **Bausteine** diesen auswählt:
 <div align="center">
 <img src="images/testfktbstn.PNG" align="center"  />
 </div>  
+
 ### Handskizze
+
 <div align="center">
 <img src="images/skizze.jpeg" align="center"/>
 </div>
+
 ### Quellen
--
+Keine Quellen
