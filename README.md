@@ -129,8 +129,7 @@ Den erstellten Baustein kann man nun weiter verwenden in anderen Programmen, ind
 <div align="center">
 <img src="images/testfktbstn.PNG" align="center"  />
 </div>  
-### Handskizze  
-
+### Handskizze
 <div align="center">
 <img src="images/skizze.jpeg" align="center"/>
 </div>
