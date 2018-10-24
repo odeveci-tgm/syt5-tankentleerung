@@ -132,7 +132,7 @@ Den erstellten Baustein kann man nun weiter verwenden in anderen Programmen, ind
 ### Handskizze  
 
 <div align="center">
-<img src="images/skizze.JPEG" align="center"/>
+<img src="images/skizze.jpeg" align="center"/>
 </div>
 ### Quellen
 -
